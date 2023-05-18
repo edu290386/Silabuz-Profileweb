@@ -35,12 +35,17 @@ p{
     text-align: center;
 }
 
+a{
+    display:flex    ;  
+    justify-content: center;
+}
 
 #icons {
     width: 90px;
     padding: 10px;
-    display: inline;    
+
 }
 
-
-
+#icons:hover {
+    width: 120px;
+}
