@@ -1,16 +1,46 @@
+
+
 #logo {
     border-radius: 50%;
+    width: 250px;
+    margin-bottom: 50px;
+    display: block;
+    margin: auto;
+    
 }
+
+
+
 body {
     background-color: rgb(235, 235, 192);
 }
 
 h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    margin-bottom: 0px;
+    text-align: center;
+    color: #d85353;
 }
 
-img {
+h2{
+    margin-bottom: 50px;
+    font-size: 35px;
+    text-align: center;
+}
+
+p{
+    margin-bottom: 50px;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+#icons {
     width: 90px;
     padding: 10px;
+    display: inline;    
 }
+
+
 
