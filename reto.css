@@ -59,7 +59,9 @@ footer{
 
 #icons {
     width: 80px;
-    padding: 10px;
+    height: 80px;
+    padding: 12px;
+    object-fit: cover;
 }
 
 #icons:hover {
